@@ -16,4 +16,4 @@ Lab Repos:
 
 See also the Course Website: https://ubc-stat.github.io/stat-406/
 
-The (Public) code for the Lecture slides is available at: https://github.com/UBC-STAT/stat-406-lectures/
+The (Public) code for the Lecture slides is available [here](https://github.com/UBC-STAT/stat-406/tree/main/lectures/slides)
