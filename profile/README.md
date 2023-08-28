@@ -1,4 +1,4 @@
-# Welcome to UBC Stat 406 Github
+# Welcome to UBC Stat 406 GitHub
 
 If you're an enrolled student, you should be able to see some pertinent repositories here.
 
@@ -16,4 +16,4 @@ Lab Repos:
 
 See also the Course Website: https://ubc-stat.github.io/stat-406/
 
-The (Public) code for the Lecture slides is available [here](https://github.com/UBC-STAT/stat-406/tree/main/lectures/slides)
+The (Public) code for the Lecture slides is available [here](https://github.com/UBC-STAT/stat-406/tree/main/lectures/slides).
